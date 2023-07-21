@@ -47,7 +47,7 @@ In order to run this project you need:
 1. Install Ruby
 2. Clone this repo 
 ```
-git clone git@github.com:Bifabig/morse-code.git
+git clone git@github.com:Bifabig/enumerable-ruby.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
